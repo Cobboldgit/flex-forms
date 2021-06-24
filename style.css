@@ -1,0 +1,51 @@
+body {
+	background:#e3edfd; 
+	font-family: Arial;
+}
+
+.main-box {
+	height:20vh; 
+	width:650px;
+	/*border: solid thin;*/
+	border-radius: 10px;
+	background: white;
+	padding: 20px;
+	margin: 0px auto;
+	
+}
+
+.main-box1 {
+	height:20vh; 
+	width:650px;
+	/*border: solid thin;*/
+	border-radius: 10px;
+	background: white;
+	padding: 20px;
+	margin: 0px auto;
+	border-top: solid 15px #4285f4;
+}
+
+
+span {
+	color: red;
+}
+
+.form-b {
+	border:0px;
+	border-bottom: 1px solid grey;
+	width: 350px;
+	opacity: 50%;
+}
+
+.p1 {
+	text-align: center;
+}
+
+.button1 {
+	margin-left: 27%;
+	background: #2785e4;
+	border: none;
+	border-radius: 10px;
+	height: 40px;
+	width: 100px;
+}
